@@ -1,0 +1,68 @@
+.st-emotion-cache-6qob1r.eczjsme3{
+    background-color: #FF8E8F;
+}
+
+
+[data-testid="baseButton-secondary"]{
+    border: 2px solid black;
+  border-radius: 9px;
+}
+.Kunjan1{
+    border-radius: 9px;
+}
+.st-emotion-cache-cnbvxy.e1nzilvr5{
+    color: black;
+}
+.st-emotion-cache-cnbvxy.e1nzilvr5{
+    color: black;
+}
+[data-testid="stApp"]{
+    background-color: #EEF5FF;
+    background-image: url("https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/004/890/datas/original.jpg");
+  background-size: cover;
+  /* padding: 35px; */
+  background-repeat: no-repeat;
+  background-origin: content-box;
+}
+[data-testid="stFileUploaderDropzone"]{
+    background-color: #B4D4FF;
+
+}
+span.st-emotion-cache-10trblm.e1nzilvr1{
+    color: black;
+}
+small.st-emotion-cache-7oyrr6.e1bju1570{
+    color: black
+}
+.st-emotion-cache-19rxjzo.ef3psqc12{
+    background-color: #176B87;
+    color: black;
+}
+span.st-emotion-cache-9ycgxx.e1b2p2ww12{
+    color: black;
+}
+.Kunjan{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+.st-emotion-cache-1v0mbdj.e115fcil1{
+    width: 50%; /* Set the width of the container */
+    display: inline-block;
+
+}
+/* .st-emotion-cache-1v0mbdj.e115fcil1 img{
+    height: 90%; /* Set the width of each image to 50% */
+    /* float: left;  
+} */
+.appview-container.st-emotion-cache-1wrcr25.ea3mdgi9{
+    left: 0;
+}
+[data-testid="stNotification"]{
+    display: inline-block;
+    width: 50%;
+
+}
